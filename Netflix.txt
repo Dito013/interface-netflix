@@ -1,0 +1,22 @@
+Instalar vs code
+clicar em extensão
+baixar as seguintes extensões:
+	live server;
+	auto rename tag;
+	e dracula theme.
+_________________________________
+
+Dicas para CSS: 
+Declarando variável  :root { -- nome: ...; } 
+
+Resetando estilo
+* { margin:0; padding:0;box-sizing:0; }
+
+Estrutura de fonte para página:
+font-family: 'times new roman', times, serif;
+
+font aswe
+
+Baixe o jquery no owl carousel 
+Extrair o arquivo dentro da pasta raiz do projeto
+Dentro da pasta owl procurar por docs 
